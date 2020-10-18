@@ -20,14 +20,14 @@ final Customer_Appi = "http://192.168.43.192/project/Customer_Apis/";
 
 // ============================================
 
-final Map_Api = "AIzaSyAEOrHX50d57DEZ8LfJvaCFeaiUkr6XtXs";
+final Map_Api = "AIzaSyAEOjdsfkfwrHX5ewtwe0d57DgeEZ8LfJvaCFeaiUkr6XtXs";
 // -----------------------
-final keyid = "rzp_test_A07M7EwnYw6E8m";
-final keysecret = "8ynFPBAVbYBSZ7lEFL5IXORL";
+final keyid = "rzp_test_A07M7EwnYw6E8wet25tsgm";
+final keysecret = "8ynFPBAVbYBSZ7lEFL5IXOR45dggdgdrL";
 // -----------------------
 final publickey =
-    'pk_test_51HFzU6DX5gOp1yZI4Jre2PbZ2X0Lin1y1EkCHZRc1Yob6XGYaF4TLQrkA39nUctvZUA3vCrAEqONsY65TMtTk7mj00DSbVOwsn';
+    'pk_test_51HFzU6DX5gOp1yfsetw4ZI4Jre2PbZ2X0Lin1y1EkCHZRc1Yob6XGYaF4TLQrkA39nUctvZUA3vCrAEqONsY65TMtTk7mj00DSbVOwsn';
 final secret_key =
-    'sk_test_51HFzU6DX5gOp1yZIb7lwCQIS9Z9v6x4F8tN6FJu8WDIKZU0vNoh2hB089Tx4mO8mGc06HdSTPSkClWPXu34a1Fig002I0G5XQU';
+    'sk_test_51HFzU6DX5gOp1yZIb7estweglwCQIS9Z9v6x4F8tN6FJu8WDIKZU0vNoh2hB089Tx4mO8mGc06HdSTPSkClWPXu34a1Fig002I0G5XQU';
 final salt =
-    '[U1#2[3Vo*cjg{jgX*g8P_7z%I&szC}93^3&k]<Kl}2@3R.U}8s>Pb^as!if*TB%h){*(s#A^MF@Ln)L-UPD*^RY;FI#??W?Ak?!@^%';
+    '[U1#2[3Vo*cjg{jgX*g8P_7z%I&ssg4zC}93^3&k]<Kl}2@3R.U}8s>Pb^as!if*TB%h){*(s#A^MF@Ln)L-UPD*^RY;FI#??W?Ak?!@^%';
