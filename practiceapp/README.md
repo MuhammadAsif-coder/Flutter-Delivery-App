@@ -16,6 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 #Screens of Food App
+</br>
 <img src="https://user-images.githubusercontent.com/56240820/96360972-32ebf800-113b-11eb-8fd1-43601063ea1b.jpg" height=500 width=300/>
 <img src="https://user-images.githubusercontent.com/56240820/96360986-4303d780-113b-11eb-9ff3-f9453726ae1e.jpg" height=500 width=300/>
 <img src="https://user-images.githubusercontent.com/56240820/96360988-46975e80-113b-11eb-936c-b67413532e71.jpg" height=500 width=300/>
@@ -27,5 +28,3 @@ samples, guidance on mobile development, and a full API reference.
 <img src="https://user-images.githubusercontent.com/56240820/96360997-5ca51f00-113b-11eb-814d-6653222a6a33.jpg" height=500 width=300/>
 <img src="https://user-images.githubusercontent.com/56240820/96361001-63cc2d00-113b-11eb-84dd-205fed34172a.jpg" height=500 width=300/>
 <img src="https://user-images.githubusercontent.com/56240820/96361004-67f84a80-113b-11eb-8f15-0407459f8342.jpg" height=500 width=300/>
-
-![j](https://user-images.githubusercontent.com/56240820/96361004-67f84a80-113b-11eb-8f15-0407459f8342.jpg)</br>
